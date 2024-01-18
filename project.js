@@ -1,11 +1,29 @@
 $(function() {
     var projects = [
         {
-            p_code : "p06",
-            p_title : "비즈니스피플 모바일 부분개편",
-            p_desc : "현재 모바일 부분 개편 UI개발 작업 중..<br>오픈일은 11월 15일 예정",
+            p_code : "p08",
+            p_title : "우잉 3.0 프로젝트 리뉴얼",
+            p_desc : "리액트로 개발중인 프로젝트로 현재 스토리북을 이용하여 공통 컴포넌트 UI개발 및 페이지 UI개발 작업 중입니다..<br><br>오픈 예상: 2024년 06월월",
             p_url_txt : "",
             p_url : "",
+            p_murl_txt : "",
+            p_murl : ""
+        },
+        {
+            p_code : "p07",
+            p_title : "파피루스 메신저 앱 신규개발",
+            p_desc : "스토리북을 이용하여 파피루스 메신저 앱 내 필요한 공통 컴포넌트 UI개발하였습니다.",
+            p_url_txt : "",
+            p_url : "",
+            p_murl_txt : "",
+            p_murl : ""
+        },
+        {
+            p_code : "p06",
+            p_title : "비즈니스피플 모바일 부분개편",
+            p_desc : "메인 및 일부 메뉴 개편<br><br>전체 css 코드 리팩토링",
+            p_url_txt : "비즈니스 피플 모바일 사이트",
+            p_url : "https://m.bzpp.co.kr/",
             p_murl_txt : "",
             p_murl : ""
         },
